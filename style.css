@@ -1,0 +1,28 @@
+h1 {
+    color: #d85452;
+  }
+  
+  h2 {
+    color: #be4ed5;
+  }
+  
+  ul {
+    list-style-type: square; 
+  }
+  
+  ol {
+    list-style-type: upper-roman;   
+  }
+  
+  .underlined {
+    text-decoration: underline;
+  }
+  
+  .colored {
+    color: #ea32a8;
+  }
+  
+  article {
+    width: 500px;
+    margin: 0 auto;
+  }
